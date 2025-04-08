@@ -1,0 +1,4 @@
+Account Type,Account Number,Transaction Date,Cheque Number,Description 1,Description 2,CAD$,USD$
+Checking,123456789012,2025-04-01,1001,Grocery Store,Weekly shopping,150.50,
+Savings,098765432109,2025-04-02,,Utility Payment,Monthly bill,,200.00
+Invalid,,2025-04-03,1003,Missing Account Number,Test entry,50.00,75.00

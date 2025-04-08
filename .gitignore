@@ -1,0 +1,14 @@
+# Environment variables
+.env
+.env*.local
+
+# Logs and databases
+*.log
+*.sqlite
+
+# Dependency directories
+node_modules/
+
+# Editor directories
+.vscode/
+.idea/
