@@ -1,0 +1,14 @@
+# Decision Log
+
+## 2025-04-08: README Architecture Update
+**Decision:** Overhaul documentation to reflect dual-language architecture and MCP integration  
+**Impact:** 
+- Improved onboarding for new contributors
+- Clearer separation of Python/Node.js responsibilities
+- Explicit MCP server configuration guidelines
+- Centralized security practices documentation
+
+**Patterns Established:**
+1. Documentation updates trigger .clinerules updates
+2. MCP server details now follow `[server-name]-config.md` format
+3. Tech stack badges use standardized shield.io syntax
